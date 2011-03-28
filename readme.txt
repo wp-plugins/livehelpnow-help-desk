@@ -1,7 +1,7 @@
 === LiveHelpNow Help Desk ===
 Tags: live chat software, widget, plugin, live help software, help desk software, trouble ticket, knowledge base, live support
 Requires at least: 1.5
-Tested up to: 2.9.1
+Tested up to: 3.1
 Stable tag: 1.1.1
 
 Chat.Help.Sell. LiveHelpNow Help Desk Software - Live Chat, Tickets, Knowledge base 
@@ -110,7 +110,7 @@ Knowledge Base System
 
 * Here are some examples:
 
- http://help.livehelpnow.net, http://support.finaldraft.com, http://support.independent-networks.com 
+ http://help.livehelpnow.net, http://support.finaldraft.com, http://faq.goqsoftware.com 
 
 * Capture knowledge from Chat transcripts or Resolved tickets with 1-click all in real-time.
 * Fully integrated with LiveHelpNow Chat System and Ticket System
@@ -138,5 +138,6 @@ Knowledge Base System
 You can review installation instructions at [LiveHelpNow Help Desk widget installation instructions](http://www.livehelpnow.net/n/support/live-chat-widget-wordpress.aspx).
 
 == Screenshots ==
-1. Administration Interface
-2. Live chat icon
+1. Mobile capable
+2. Operator panel
+3. Live chat icon
